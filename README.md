@@ -2,6 +2,18 @@
 
 Sublime Text syntax theme based off of the [Material Design color palette](http://www.google.com/design/spec/style/color.html)
 
+### Install using Package Control
+
+If you are using [Package Control](https://sublime.wbond.net/), you can
+install Material Color Scheme via **Package Control: Install Package**. Search for `Material Color Scheme` once the list appears. Select Material Color Scheme by going to **Preferences -> Color Scheme -> Material Color Scheme**
+
+### Manual install
+
+1.  Clone `git@github.com:paradox41/material-color-scheme.git` and then take the **Material.tmTheme**
+2.	Open Sublime text and click on **Preferences -> Browse Packages**
+3.	Then put the **Material.tmTheme** there
+4.	Select Material Color Scheme by going to **Preferences -> Color Scheme -> Material Color Scheme**
+
 ### HTML
 
 ![html](https://cloud.githubusercontent.com/assets/2791730/3743693/5308869e-177d-11e4-8b0a-c27996d5c73c.png)

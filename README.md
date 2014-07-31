@@ -1,6 +1,8 @@
 # Material Color Scheme (WIP)
 
-Sublime Text syntax theme based off of the [Material Design color palette](http://www.google.com/design/spec/style/color.html)
+Syntax theme based off of the [Material Design color palette](http://www.google.com/design/spec/style/color.html)
+
+## Sublime Text 2/3
 
 ### Install using Package Control
 
@@ -13,6 +15,10 @@ install Material Color Scheme via **Package Control: Install Package**. Search f
 2.	Open Sublime text and click on **Preferences -> Browse Packages**
 3.	Then put the **Material.tmTheme** there
 4.	Select Material Color Scheme by going to **Preferences -> Color Scheme -> Material Color Scheme**
+
+### Atom
+
+Install using `apm install material` or search via the settings page.
 
 ### HTML
 

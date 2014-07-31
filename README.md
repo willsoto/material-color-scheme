@@ -18,7 +18,7 @@ install Material Color Scheme via **Package Control: Install Package**. Search f
 
 ### Atom
 
-Install using `apm install material` or search via the settings page.
+Install using `apm install material` or get it [here](https://atom.io/themes/material).
 
 ### HTML
 

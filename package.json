@@ -1,0 +1,11 @@
+{
+  "name": "material",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Syntax theme based off of the Material Design color palette",
+  "repository": "https://github.com/paradox41/material-color-scheme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}

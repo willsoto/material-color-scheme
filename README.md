@@ -22,16 +22,16 @@ Install using `apm install material` or get it [here](https://atom.io/themes/mat
 
 ### HTML
 
-![html](https://github.com/paradox41/material-color-scheme/blob/master/images/HTML.png)
+![html](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/HTML.png)
 
 ### JavaScript
 
-![javascript](https://github.com/paradox41/material-color-scheme/blob/master/images/JavaScript.png)
+![javascript](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/JavaScript.png)
 
 ### Python
 
-![python](https://github.com/paradox41/material-color-scheme/blob/master/images/Python.png)
+![python](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/Python.png)
 
 ### SCSS
 
-![scss](https://github.com/paradox41/material-color-scheme/blob/master/images/SCSS.png)
+![scss](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/SCSS.png)

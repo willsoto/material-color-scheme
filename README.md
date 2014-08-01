@@ -11,7 +11,7 @@ install Material Color Scheme via **Package Control: Install Package**. Search f
 
 ### Manual install
 
-1.  Clone `git@github.com:paradox41/material-color-scheme.git` and then take the **Material.tmTheme**
+1.  Clone `git@github.com:paradox41/material-color-scheme.git` and then copy the **Material.tmTheme** file
 2.	Open Sublime text and click on **Preferences -> Browse Packages**
 3.	Then put the **Material.tmTheme** there
 4.	Select Material Color Scheme by going to **Preferences -> Color Scheme -> Material Color Scheme**

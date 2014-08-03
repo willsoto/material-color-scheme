@@ -2,6 +2,10 @@
 
 Syntax theme based off of the [Material Design color palette](http://www.google.com/design/spec/style/color.html)
 
+## Palette
+
+![palette](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/material-palette.png)
+
 ## Sublime Text 2/3
 
 ### Install using Package Control

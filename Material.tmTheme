@@ -529,6 +529,50 @@
 				<string>#1397f1</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rust: Attribute</string>
+			<key>scope</key>
+			<string>comment.block.attribute.rust</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ff9800</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rust: Macro</string>
+			<key>scope</key>
+			<string>meta.preprocessor.rust</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#795548</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rust: Module Path</string>
+			<key>scope</key>
+			<string>meta.namespace-block.rust</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffccbc</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rust: Extern Crate</string>
+			<key>scope</key>
+			<string>support</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#d1c4e9</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>

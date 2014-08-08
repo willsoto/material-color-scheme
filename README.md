@@ -42,4 +42,4 @@ Install using `apm install material` or get it [here](https://atom.io/themes/mat
 
 ### Rust
 
-![rust](./images/rust-material-screenshot.png)
+![rust](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/Rust.png)

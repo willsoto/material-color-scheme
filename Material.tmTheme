@@ -560,7 +560,7 @@
 			<key>name</key>
 			<string>Rust: Attribute</string>
 			<key>scope</key>
-			<string>comment.block.attribute.rust</string>
+			<string>meta.attribute.rust</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -600,8 +600,62 @@
 				<string>#d1c4e9</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Raw String</string>
+			<key>scope</key>
+			<string>string.quoted.double.raw</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c6ff00</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Variable: Language</string>
+			<key>scope</key>
+			<string>variable.language</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ce93d8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rust: Sigils</string>
+			<key>scope</key>
+			<string>keyword.operator.sigil.rust</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#91a7ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rust: Comment Documentation</string>
+			<key>scope</key>
+			<string>comment.block.documentation.rust, comment.line.documentation.rust</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9e9e9e</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rust: Initialized Definition</string>
+			<key>scope</key>
+			<string>variable.other.rust</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9e9d24</string>
+			</dict>
+		</dict>
 	</array>
-
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
 	<key>colorSpaceName</key>

@@ -525,7 +525,7 @@
 				<string>#1397f1</string>
 			</dict>
 		</dict>
-	<dict>
+		<dict>
             <key>name</key>
             <string>SublimeLinter Gutter Mark</string>
             <key>scope</key>
@@ -535,7 +535,8 @@
                 <key>foreground</key>
                 <string>#FFFFFF</string>
             </dict>
-        </dict><dict>
+        </dict>
+        <dict>
             <key>name</key>
             <string>SublimeLinter Error</string>
             <key>scope</key>
@@ -545,7 +546,8 @@
                 <key>foreground</key>
                 <string>#D02000</string>
             </dict>
-        </dict><dict>
+        </dict>
+        <dict>
             <key>name</key>
             <string>SublimeLinter Warning</string>
             <key>scope</key>

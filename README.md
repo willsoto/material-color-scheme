@@ -1,5 +1,8 @@
 # Material Color Scheme (WIP)
 
+[![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/paradox41/material-color-scheme)
+[![Tag](https://img.shields.io/github/tag/paradox41/material-color-scheme.svg?style=flat)](https://github.com/paradox41/material-color-scheme)
+
 Syntax theme based off of the [Material Design color palette](http://www.google.com/design/spec/style/color.html)
 
 ## Palette

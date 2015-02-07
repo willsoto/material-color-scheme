@@ -30,19 +30,24 @@ Install using `apm install material` or get it [here](https://atom.io/themes/mat
 ### HTML
 
 ![html](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/HTML.png)
+![html](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/HTML-light.png)
 
 ### JavaScript
 
 ![javascript](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/JavaScript.png)
+![javascript](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/JavaScript-light.png)
 
 ### Python
 
 ![python](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/Python.png)
+![python](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/Python-light.png)
 
 ### SCSS
 
 ![scss](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/SCSS.png)
+![scss](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/SCSS-light.png)
 
 ### Rust
 
 ![rust](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/Rust.png)
+![rust](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/Rust-light.png)

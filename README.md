@@ -19,6 +19,10 @@ install Material Color Scheme via **Package Control: Install Package**. Search f
 3.	Then put the **Material.tmTheme** there
 4.	Select Material Color Scheme by going to **Preferences -> Color Scheme -> Material Color Scheme**
 
+### Settings
+
+Ensure you have `"highlight_line": true` in your `Preferences.sublime-settings` file if you are using ST3.
+
 ### Atom
 
 Install using `apm install material` or get it [here](https://atom.io/themes/material).

@@ -57,7 +57,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#689f38</string>
+                <string>#009688</string>
             </dict>
         </dict>
         <dict>
@@ -604,6 +604,72 @@
             <dict>
                 <key>foreground</key>
                 <string>#d1c4e9</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JSON - quote</string>
+            <key>scope</key>
+            <string>punctuation.definition.string.begin.json</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string></string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JSON - 1 deep</string>
+            <key>scope</key>
+            <string>source.json meta meta.structure.dictionary string</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FD971F</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JSON - 2 deep</string>
+            <key>scope</key>
+            <string>source.json meta meta meta.structure.dictionary string</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#228d1b</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JSON - 3 deep</string>
+            <key>scope</key>
+            <string>source.json meta meta meta meta.structure.dictionary string</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FD971F</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JSON - 4 deep</string>
+            <key>scope</key>
+            <string>source.json meta meta meta meta meta.structure.dictionary string</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#607d8b</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JSON - 5 deep</string>
+            <key>scope</key>
+            <string>source.json meta meta meta meta meta meta.structure.dictionary string</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d32f2f</string>
             </dict>
         </dict>
     </array>

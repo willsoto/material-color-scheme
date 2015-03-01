@@ -600,6 +600,72 @@
                 <string>#d1c4e9</string>
             </dict>
         </dict>
+        <dict>
+            <key>name</key>
+            <string>JSON - quote</string>
+            <key>scope</key>
+            <string>punctuation.definition.string.begin.json</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string></string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JSON - 1 deep</string>
+            <key>scope</key>
+            <string>source.json meta meta.structure.dictionary string</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ff5722</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JSON - 2 deep</string>
+            <key>scope</key>
+            <string>source.json meta meta meta.structure.dictionary string</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#228d1b</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JSON - 3 deep</string>
+            <key>scope</key>
+            <string>source.json meta meta meta meta.structure.dictionary string</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ff5722</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JSON - 4 deep</string>
+            <key>scope</key>
+            <string>source.json meta meta meta meta meta.structure.dictionary string</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#03a9f4</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JSON - 5 deep</string>
+            <key>scope</key>
+            <string>source.json meta meta meta meta meta meta.structure.dictionary string</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ffd54f</string>
+            </dict>
+        </dict>
     </array>
     <key>uuid</key>
     <string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>

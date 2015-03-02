@@ -23,6 +23,14 @@ install Material Color Scheme via **Package Control: Install Package**. Search f
 
 Ensure you have `"highlight_line": true` in your `Preferences.sublime-settings` file if you are using ST3.
 
+### Migrating from 1.x to 2.x (Sublime only)
+
+When upgrading from 1.x, you will need to reactivate the Material scheme from your preferences menu.
+
+Preferences -> Color Scheme...
+
+As part of a refactor, the location of the *.tmTheme files changed.
+
 ### Atom
 
 Install using `apm install material` or get it [here](https://atom.io/themes/material).

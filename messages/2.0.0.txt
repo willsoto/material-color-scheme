@@ -1,0 +1,11 @@
+Material 2.0:
+
+When upgrading from 1.x, you will need to reactivate the Material scheme from your preferences menu.
+
+Preferences -> Color Scheme...
+
+As part of a refactor, the location of the *.tmTheme files changed.
+
+Roadmap:
+
+I do plan on making at least one other variant and also properly theming ST3. It is in the works.

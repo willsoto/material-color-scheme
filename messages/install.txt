@@ -1,0 +1,30 @@
+Thanks for installing Material!
+
+
+How to activate
+===============
+
+Activate the color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (⌘+, on Mac).
+
+Material Dark
+---------
+
+Dark variation
+
+*Example settings*
+
+    {
+      "color_scheme": "Packages/Material Color Scheme/sublime/material-dark.tmTheme",
+    }
+
+
+Material Light
+---------------
+
+Light variation.
+
+*Example settings*
+
+    {
+      "color_scheme": "Packages/Material Color Scheme/sublime/material-light.tmTheme",
+    }

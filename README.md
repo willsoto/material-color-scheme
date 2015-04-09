@@ -50,7 +50,7 @@ Install using `apm install material` or get it [here](https://atom.io/themes/mat
 ![python](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/Python.png)
 ![python](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/Python-light.png)
 
-### SCSS
+### Sass
 
 ![scss](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/SCSS.png)
 ![scss](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/SCSS-light.png)

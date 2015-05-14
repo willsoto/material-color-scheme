@@ -19,4 +19,4 @@ for file in $FILES; do
     echo "Converted $file"
 done
 
-git xa "Convert atom theme"
+git commit -a -m "Convert Atom theme"

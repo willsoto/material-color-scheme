@@ -35,27 +35,17 @@ As part of a refactor, the location of the *.tmTheme files changed.
 
 Install using `apm install material` or get it [here](https://atom.io/themes/material).
 
-### HTML
+### HTML and JavaScript
 
-![html](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/HTML.png)
-![html](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/HTML-light.png)
-
-### JavaScript
-
-![javascript](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/JavaScript.png)
-![javascript](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/JavaScript-light.png)
+![HTML and JavaScript](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/screenshots/material-dark-html-js.jpg)
+![HTML and JavaScript](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/screenshots/material-light-html-js.jpg)
 
 ### Python
 
-![python](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/Python.png)
-![python](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/Python-light.png)
+![Python](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/screenshots/material-dark-python.jpg)
+![Python](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/screenshots/material-light-python.jpg)
 
-### Sass
+### Sass and Less
 
-![scss](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/SCSS.png)
-![scss](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/SCSS-light.png)
-
-### Rust
-
-![rust](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/Rust.png)
-![rust](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/images/Rust-light.png)
+![Sass and Less](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/screenshots/material-dark-scss-less.jpg)
+![Sass and Less](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/screenshots/material-light-scss-less.jpg)

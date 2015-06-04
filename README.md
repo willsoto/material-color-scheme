@@ -35,6 +35,10 @@ As part of a refactor, the location of the *.tmTheme files changed.
 
 Install using `apm install material` or get it [here](https://atom.io/themes/material).
 
+### Theme
+
+The theme being used in the screenshots is [Preap](https://packagecontrol.io/packages/Preap)
+
 ### HTML and JavaScript
 
 ![HTML and JavaScript](https://raw.githubusercontent.com/paradox41/material-color-scheme/master/screenshots/material-dark-html-js.jpg)

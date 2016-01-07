@@ -18,7 +18,7 @@
     <key>name</key>
     <string>Material</string>
     <key>semanticClass</key>
-    <string>theme.dark.material</string>
+    <string>theme.light.material</string>
     <key>settings</key>
     <array>
         <dict>
@@ -27,7 +27,7 @@
                 <key>background</key>
                 <string>#eceff1</string>
                 <key>caret</key>
-                <string>#F8F8F0</string>
+                <string>#212121</string>
                 <key>foreground</key>
                 <string>#424242</string>
                 <key>invisibles</key>

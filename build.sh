@@ -1,3 +1,5 @@
+#!/bin/sh
+
 FILES=./sublime/*.tmTheme
 
 rm -rf "./atom"
